@@ -1,0 +1,21 @@
+.list {
+    /* margin: 1rem 0;
+  background: #8b005d;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: white;
+  padding: 1rem 2rem;
+  cursor: pointer; */
+  background-color: rgb(73, 5, 133);
+  margin:1rem;
+  padding:1rem 2rem;
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+.list span {
+  position: relative;
+  float: right;
+  margin-left: 1rem;
+}
+.complete{
+  text-decoration: line-through  2px;
+}

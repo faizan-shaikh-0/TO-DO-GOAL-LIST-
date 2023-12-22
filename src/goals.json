@@ -1,0 +1,37 @@
+[
+    {
+        "text": "Do all exercises!",
+        "id": "g1",
+        "complete": false
+    },
+    {
+        "text": "hi there ",
+        "id": "g2",
+        "complete": false
+    },
+    {
+        "text": "perform dance",
+        "id": "g3",
+        "complete": false
+    },
+    {
+        "text": "do something great !",
+        "id": "g4",
+        "complete": false
+    },
+    {
+        "text": "push yourself ",
+        "id": "g5",
+        "complete": false
+    },
+    {
+        "text": "hurrah!! we did it!",
+        "id": "g6",
+        "complete": false
+    },
+    {
+        "text": "Finish the course!",
+        "id": "g7",
+        "complete": false
+    }
+]
